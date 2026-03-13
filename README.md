@@ -32,8 +32,14 @@ I am a Computer Engineering student from Thailand with a strong interest in expl
 **Cybersecurity & Network Analysis**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-* **Tools:** Nmap (Network Discovery), Port Scanning, Packet Inspection.
-* **Skills:** Linux Hardening, SSH Tunneling, Vulnerability Assessment, Forensic Analysis.
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-83b81a?style=for-the-badge&logo=nmap&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-🔍-blue?style=for-the-badge)
+
+* **Open Source Intelligence (OSINT):** Skilled in digital footprint analysis, asset discovery, and gathering intelligence from public sources for security auditing and reconnaissance.
+* **Network & Packet Analysis:** Proficient in **Nmap** for discovery and **Wireshark** for deep packet inspection of telemetry and network traffic.
+* **Web & API Security:** Using **Burp Suite** for intercepting traffic, vulnerability testing, and manual exploitation.
+* **Systems Hardening:** Experience in Linux security, SSH tunneling, and solving complex CTF challenges (Forensics & Crypto).
 
 **Frameworks, Tools & Platforms**
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
