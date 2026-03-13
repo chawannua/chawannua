@@ -14,6 +14,19 @@ I am a Computer Engineering student from Thailand with a strong interest in expl
 * **Beyond Code:** I enjoy working with technology in practical environments, including FPV drone piloting, robotics competitions, and building real-world engineering prototypes.
 * **Current Focus:** Improving skills in cybersecurity, system security testing, and advanced computing systems.
 
+
+
+### 🏆 Achievements & Competitions
+* **Youth Cyber Bootcamp 2025 (CTF):** Ranked **23rd out of 100 finalists** in the onsite competition, qualifying from an initial pool of over 500 participants.
+* **Indonesia Innovators Day:** Awarded **Gold Medal** for developing an IoT-based environmental and disaster monitoring system.
+
+---
+
+### 🚀 About Me
+* **Experience:** Developing IoT safety systems using ESP32 sensors and building engineering prototypes.
+* **Beyond Code:** I enjoy working with technology in practical environments, including FPV drone piloting, robotics competitions, and CTF challenges.
+* **Current Focus:** Improving skills in network analysis, system security testing, and advanced computing systems.
+
 ---
 
 ### ⚡ My Interests
