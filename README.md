@@ -15,8 +15,8 @@ I am a Computer Engineering student from Thailand with a strong interest in expl
 * **Current Focus:** Improving skills in network analysis, system security testing, and advanced computing systems.
 
 ### 🏆 Achievements & Competitions
-* **Youth Cyber Bootcamp 2025 (CTF):** Ranked **23rd out of 100 finalists** in the onsite competition, qualifying from an initial pool of over 500 participants.
-* **Indonesia Innovators Day:** Awarded **Gold Medal** for developing an IoT-based environmental and disaster monitoring system.
+* **Youth Cyber Bootcamp 2025 (CTF) - Top 5% Finalist:** Ranked **23rd out of 100 finalists** (from an initial pool of 500+ participants) in the onsite competition. Organized by the **Cyber Operations Center, Royal Thai Armed Forces (coe.rcc)**. Honors and awards were presented directly by the Chief of Defence Forces and the Head of Military Cyber Command.
+* **Indonesia Innovators Day - Gold Medalist:** Awarded **Gold Medal** for developing an IoT-based environmental and disaster monitoring system.
 
 ---
 
@@ -53,5 +53,5 @@ I am a Computer Engineering student from Thailand with a strong interest in expl
 ---
 
 ### 📊 GitHub Stats
-![Nuea's GitHub stats](https://github.readme-stats.vercel.app/api?username=chawannua&show_icons=true&theme=radical)
+![Nuea's GitHub stats](https://github-readme-stats.vercel.app/api?username=chawannua&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chawannua&layout=compact&theme=radical)
