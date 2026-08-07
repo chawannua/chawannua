@@ -56,8 +56,8 @@ I am a Computer Engineering student from Thailand with a strong interest in expl
 ---
 
 ### 📊 GitHub Stats
-![Nuea's GitHub stats](https://github-readme-stats.vercel.app/api?username=chawannua&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chawannua&layout=compact&theme=radical)
+![Nuea's GitHub stats](https://github-readme-stats-eight.vercel.app/api?username=chawannua&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=chawannua&layout=compact&theme=radical)
 
 ---
 
