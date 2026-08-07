@@ -1,59 +1,65 @@
-# Chawannua (Nuea) Thephasdin
-**Computer Engineering Student @ KMITL | Cybersecurity & Systems Engineering | IoT & Aerospace**
+# Hi there, I'm Nuea (Chawan) 👋
+
+**Computer Engineering Student | Cybersecurity & Systems Engineering Enthusiast | IoT & Aerospace Developer**
+
+I am a Computer Engineering student from Thailand with a strong interest in exploring how systems actually work under the hood. From writing code and building IoT prototypes to testing APIs, analyzing network vulnerabilities, and developing Ground Control Stations for high-altitude missions, my goal is to go beyond typical university-level knowledge and develop real expertise in cybersecurity and system architecture.
 
 > *"I believe the best way to learn technology is to build things, break them, understand why they broke, and build them better."*
 
 ---
 
-## ðŸš€ About Me
+### 🚀 About Me
+* **CubeSat & Telemetry (GCS):** Experienced in developing Ground Control Station systems using Python (`pyserial`) to capture, log, and parse real-time high-altitude telemetry data (GPS, IMU, Extreme Temperatures down to -45°C) during actual flight missions.
+* **IoT & Hardware:** Developing IoT safety systems using ESP32/Arduino Mega and building real-world engineering prototypes with a focus on reliable data transmission.
+* **Beyond Code:** I enjoy working with technology in practical environments, including FPV drone piloting, robotics competitions, and CTF challenges.
+* **Current Focus:** Improving skills in network analysis, system security testing, and secure embedded architecture.
 
-- ðŸ›°ï¸ **CubeSat Telemetry (GCS):** Experienced in PySerial, LoRa SX1278, GPS, and IMU data acquisition down to -45Â°C.
-- ðŸ”Œ **IoT & Hardware:** Proficient in embedded systems development using ESP32 and Arduino Mega.
-- ðŸš **Beyond Code:** Passionate about FPV drones, robotics, and Capture The Flag (CTF) cybersecurity competitions.
-- ðŸŒ± **Current Focus:** Continuously expanding knowledge in cybersecurity, systems architecture, and aerospace technologies.
-
----
-
-## ðŸ† Achievements
-
-- ðŸ¥‡ **Indonesia Innovators Day** - Gold Medalist
-- ðŸ›¡ï¸ **Youth Cyber Bootcamp 2025 (CTF)** - Top 5% Finalist (23rd/100, Royal Thai Armed Forces coe.rcc)
+### 🏆 Achievements & Competitions
+* **Youth Cyber Bootcamp 2025 (CTF) - Top 5% Finalist:** Ranked **23rd out of 100 finalists** (from 500+ participants) in the onsite competition. Organized by the **Cyber Operations Center, Royal Thai Armed Forces (coe.rcc)**.
+* **Indonesia Innovators Day - Gold Medalist:** Awarded **Gold Medal** for developing an IoT-based environmental and disaster monitoring system.
 
 ---
 
-## ðŸ› ï¸ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Programming & Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234ea94b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) 
-- **Focus Areas:** OSINT, Network Analysis, Web/API Security, Systems Hardening
+**Cybersecurity & Network Analysis**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-83b81a?style=for-the-badge&logo=nmap&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-🔍-blue?style=for-the-badge)
 
-### Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* **Open Source Intelligence (OSINT):** Skilled in digital footprint analysis, asset discovery, and gathering intelligence from public sources for security auditing and reconnaissance.
+* **Network & Packet Analysis:** Proficient in **Nmap** for discovery and **Wireshark** for deep packet inspection of telemetry and network traffic.
+* **Web & API Security:** Using **Burp Suite** for intercepting traffic, vulnerability testing, and manual exploitation.
+* **Systems Hardening:** Experience in Linux security, SSH tunneling, and solving complex CTF challenges (Forensics & Crypto).
 
-### Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-- **Specialty:** Core embedded development, sensor integration, and real-time telemetry
+**Frameworks, Tools & Platforms**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+**Hardware & Systems Engineering**
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+* **Core:** Arduino Mega 2560, LoRa RF Communication (SX1278), GPS (Neo-6M), IMU Data Processing.
+* **Specialty:** Real-time Data Pipelines & Secure Telemetry Logging.
 
 ---
 
-## ðŸ“Š GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chawannua&theme=radical" alt="Profile Summary Card" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chawannua&theme=react-dark" alt="Activity Graph" />
-</div>
+### 📊 GitHub Stats
+![Nuea's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=chawannua&theme=react-dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chawannua&theme=radical)
 
 ---
 
-## ðŸ“« Contact
-
-Feel free to reach out!
-- âœ‰ï¸ **Email:** [chawannua@gmail.com](mailto:chawannua@gmail.com)
+### 📫 Connect with me
+[Email](mailto:chawannua@gmail.com)
