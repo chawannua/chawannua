@@ -62,4 +62,4 @@ I am a Computer Engineering student from Thailand with a strong interest in expl
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINK) | [Email](mailto:your.email@example.com)
+[Email](mailto:chawannua@gmail.com)
