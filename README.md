@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Systems+%26+Aerospace+Software+Engineer;IoT+Architect;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Systems+%26+Aerospace+Software+Engineer;IoT+Architect;Cybersecurity+%26+OSINT+Specialist;2x+International+Gold+Medalist" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>Systems & Aerospace Software Engineer | IoT Architect | Cybersecurity Enthusiast</b>
+  <b>Systems & Aerospace Software Engineer | IoT Architect | Cybersecurity & OSINT Specialist</b>
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 <div align="center">
   <a href="https://github.com/chawannua">
-    <img src="https://github-readme-stats.vercel.app/api?username=chawannua&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="chawannua's GitHub stats" />
+    <img src="https://streak-stats.demolab.com/?user=chawannua&theme=tokyonight&hide_border=true" alt="chawannua's GitHub streak" />
   </a>
   <a href="https://github.com/chawannua">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chawannua&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chawannua&theme=tokyo-night&hide_border=true" alt="chawannua's GitHub activity graph" />
   </a>
 </div>
 
@@ -25,6 +25,7 @@
   - *2023*: ThermoGuard Environmental Sentinel (Thermal safety & automated LINE broadcast)
   - *2022*: Smart IoT Calamity Sentinel (Disaster & environmental telemetry)
 - 🛡️ **Top 5% Finalist (23rd/100 onsite finalists)** – RTAF Youth Cyber Bootcamp CTF 2025 (*Cyber Operations Center, Royal Thai Armed Forces*)
+- 🔍 **OSINT Specialist** – Proficient in OSINT investigations, CTF reconnaissance, and threat modeling.
 
 ## 💻 Technical Arsenal
 
@@ -62,6 +63,7 @@
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/OSINT-FF6F00?style=for-the-badge&logo=target&logoColor=white" alt="OSINT" />
 </p>
 
 ### DevOps & Tooling
@@ -81,7 +83,7 @@
 | **[cubesat-ground-station](https://github.com/chawannua/cubesat-ground-station)** | Telemetry parsing & visualization pipeline for CubeSat satellite communications. | Software Engineer<br>*(Python, PySerial)* |
 | **[Smart-IOT-calamity](https://github.com/chawannua/Smart-IOT-calamity)** | Disaster & environmental telemetry sentinel.<br>🥇 *Gold Medal, IYIA 2022* | IoT Architect<br>*(C++, ESP32, Sensors)* |
 | **[Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard)** | Thermal safety monitoring with automated LINE broadcast integration.<br>🥇 *Gold Medal, IYIA 2023* | Full Stack / IoT<br>*(ESP32, API, C++)* |
-| **[Data Structures & Algorithmic Engine](https://github.com/chawannua/kmitl-ds-solutions-2026)** | High-performance implementations of complex data structures and algorithmic solutions. | Software Engineer<br>*(C++, Algorithms)* |
+| **[Data Structures & Algorithmic Engine](https://github.com/chawannua/ds-solutions-2026)** | High-performance implementations of complex data structures and algorithmic solutions. | Software Engineer<br>*(C++, Algorithms)* |
 
 ---
 <div align="center">
