@@ -1,9 +1,10 @@
+<h1 align="center">Chawan Thephasdin</h1>
 <div align="center">
-  <h1>Hi, I'm Chawan 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Systems+%26+Aerospace+Developer;IoT+%26+Embedded+Hardware;Cybersecurity+%26+OSINT;2x+International+Gold+Medalist+(IYIA)" alt="Animated roles: Computer Engineering Student, Systems & Aerospace Developer, IoT & Embedded Hardware, Cybersecurity & OSINT, 2x International Gold Medalist" />
-  <p><b>Computer Engineering Student</b></p>
-  <p><i>Systems • IoT & Embedded Hardware • Cybersecurity & OSINT</i></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Systems+%26+Aerospace+Developer;IoT+%26+Embedded+Hardware;Cybersecurity+%26+OSINT;2x+International+Gold+Medalist+(IYIA)" alt="Chawan Thephasdin" />
 </div>
+<p align="center">
+  <b>Computer Engineering Student | Systems • IoT & Embedded Hardware • Cybersecurity & OSINT</b>
+</p>
 
 <p align="center">
   <a href="mailto:chawan.chawannua@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -47,7 +48,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **Systems, Aerospace & Data**<br/>
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)
@@ -56,10 +57,10 @@
 
 **DevOps & Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🚀 Featured Engineering Projects
 
