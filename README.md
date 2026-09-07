@@ -1,65 +1,49 @@
-# Hi there, I'm Nuea (Chawan) 👋
+<h1 align="center">Hi there, I'm Chawan! 👋</h1>
+<h3 align="center">Computer Engineering Student @ KMITL | Systems, IoT & Aerospace Enthusiast</h3>
 
-**Computer Engineering Student | Cybersecurity & Systems Engineering Enthusiast | IoT & Aerospace Developer**
-
-I am a Computer Engineering student from Thailand with a strong interest in exploring how systems actually work under the hood. From writing code and building IoT prototypes to testing APIs, analyzing network vulnerabilities, and developing Ground Control Stations for high-altitude missions, my goal is to go beyond typical university-level knowledge and develop real expertise in cybersecurity and system architecture.
-
-> *"I believe the best way to learn technology is to build things, break them, understand why they broke, and build them better."*
-
----
-
-### 🚀 About Me
-* **CubeSat & Telemetry (GCS):** Experienced in developing Ground Control Station systems using Python (`pyserial`) to capture, log, and parse real-time high-altitude telemetry data (GPS, IMU, Extreme Temperatures down to -45°C) during actual flight missions.
-* **IoT & Hardware:** Developing IoT safety systems using ESP32/Arduino Mega and building real-world engineering prototypes with a focus on reliable data transmission.
-* **Beyond Code:** I enjoy working with technology in practical environments, including FPV drone piloting, robotics competitions, and CTF challenges.
-* **Current Focus:** Improving skills in network analysis, system security testing, and secure embedded architecture.
-
-### 🏆 Achievements & Competitions
-* **Youth Cyber Bootcamp 2025 (CTF) - Top 5% Finalist:** Ranked **23rd out of 100 finalists** (from 500+ participants) in the onsite competition. Organized by the **Cyber Operations Center, Royal Thai Armed Forces (coe.rcc)**.
-* **Indonesia Innovators Day - Gold Medalist:** Awarded **Gold Medal** for developing an IoT-based environmental and disaster monitoring system.
+<p align="center">
+  <a href="mailto:chawan.chawannua@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/chawannua"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/chawannua"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Programming & Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234ea94b.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Cybersecurity & Network Analysis**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-83b81a?style=for-the-badge&logo=nmap&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-🔍-blue?style=for-the-badge)
-
-* **Open Source Intelligence (OSINT):** Skilled in digital footprint analysis, asset discovery, and gathering intelligence from public sources for security auditing and reconnaissance.
-* **Network & Packet Analysis:** Proficient in **Nmap** for discovery and **Wireshark** for deep packet inspection of telemetry and network traffic.
-* **Web & API Security:** Using **Burp Suite** for intercepting traffic, vulnerability testing, and manual exploitation.
-* **Systems Hardening:** Experience in Linux security, SSH tunneling, and solving complex CTF challenges (Forensics & Crypto).
-
-**Frameworks, Tools & Platforms**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-**Hardware & Systems Engineering**
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-* **Core:** Arduino Mega 2560, LoRa RF Communication (SX1278), GPS (Neo-6M), IMU Data Processing.
-* **Specialty:** Real-time Data Pipelines & Secure Telemetry Logging.
+## 🏆 Verified Honors & Badges
+- 🥇 **Gold Medalist** – International Innovation Competition (IYIA 2023)
+- 🛡️ **Top 5% Finalist** – RTAF Youth Cyber Bootcamp CTF 2025
+- 🎓 **Computer Engineering Student** – King Mongkut's Institute of Technology Ladkrabang (KMITL)
 
 ---
 
-### 📊 GitHub Stats
-![Nuea's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=chawannua&theme=react-dark)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chawannua&theme=radical)
+## 🛠️ Technical Arsenal
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+### Hardware & IoT
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+### Systems & Aerospace
+![Pygame](https://img.shields.io/badge/Pygame-101010?style=for-the-badge&logo=python&logoColor=white) ![LoRa](https://img.shields.io/badge/LoRa-FF8C00?style=for-the-badge) ![Telemetry](https://img.shields.io/badge/Telemetry-00599C?style=for-the-badge)
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📫 Connect with me
-[Email](mailto:chawannua@gmail.com)
+## 🚀 Featured Engineering Projects
+
+| Project | Description | Highlights |
+|---------|-------------|------------|
+| **[Air Defense Radar Sim](https://github.com/chawannua/air-defense-radar-sim)** | Pygame Tactical C2 Simulator for RTAF | 🛰️ AESA radar physics<br>📡 EW jamming logic<br>✈️ Interceptor scramble dynamics |
+| **[CubeSat Ground Station](https://github.com/chawannua/cubesat-ground-station)** | High-altitude balloon telemetry receiver | 📻 LoRa integration<br>⏱️ Real -45.6°C stratospheric data parser<br>⚙️ Arduino Mega powered |
+| **[Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard)** | IoT Environmental & Heat Index Monitor | 📱 Real-time LINE alerts<br>🌡️ Environmental monitoring<br>🥇 *Gold Medalist at IYIA 2023* |
+| **[KMITL DS Solutions](https://github.com/chawannua/kmitl-ds-solutions-2026)** | Data Structures exam mastery tools | 💯 40/40 verified solutions<br>🧠 Custom offline interactive exam app |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chawannua&show_icons=true&theme=radical" alt="Chawan's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chawannua&theme=radical" alt="Chawan's Streak" width="48%">
+</p>
