@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Systems+%26+Aerospace+Software+Engineer;IoT+Architect;Cybersecurity+%26+OSINT+Specialist;2x+International+Gold+Medalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Systems+%26+Aerospace;IoT+%26+Embedded+Hardware;Cybersecurity+%26+OSINT;2x+International+Gold+Medalist" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>Systems & Aerospace Software Engineer | IoT Architect | Cybersecurity & OSINT Specialist</b>
+  <b>Computer Engineering Student | Systems, IoT & OSINT</b>
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@
 
 | Project | Description | Role/Stack |
 | :--- | :--- | :--- |
-| **[air-defense-radar-sim](https://github.com/chawannua/air-defense-radar-sim)** | High-fidelity AESA radar simulation with target tracking & electronic warfare physics. | Systems Engineer<br>*(Python, Pygame, Math)* |
-| **[cubesat-ground-station](https://github.com/chawannua/cubesat-ground-station)** | Telemetry parsing & visualization pipeline for CubeSat satellite communications. | Software Engineer<br>*(Python, PySerial)* |
-| **[Smart-IOT-calamity](https://github.com/chawannua/Smart-IOT-calamity)** | Disaster & environmental telemetry sentinel.<br>🥇 *Gold Medal, IYIA 2022* | IoT Architect<br>*(C++, ESP32, Sensors)* |
-| **[Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard)** | Thermal safety monitoring with automated LINE broadcast integration.<br>🥇 *Gold Medal, IYIA 2023* | Full Stack / IoT<br>*(ESP32, API, C++)* |
-| **[Data Structures & Algorithmic Engine](https://github.com/chawannua/kmitl-ds-solutions-2026)** | High-performance implementations of complex data structures and algorithmic solutions. | Software Engineer<br>*(C++, Algorithms)* |
+| **[air-defense-radar-sim](https://github.com/chawannua/air-defense-radar-sim)** | High-fidelity AESA radar simulation with target tracking & electronic warfare physics. | Python, Pygame, Radar Physics |
+| **[cubesat-ground-station](https://github.com/chawannua/cubesat-ground-station)** | Telemetry parsing & visualization pipeline for CubeSat satellite communications. | Python, PySerial, Telemetry |
+| **[Smart-IOT-calamity](https://github.com/chawannua/Smart-IOT-calamity)** | Disaster & environmental telemetry sentinel.<br>🥇 *Gold Medal, IYIA 2022* | ESP32, C++, LoRa RF |
+| **[Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard)** | Thermal safety monitoring with automated LINE broadcast integration.<br>🥇 *Gold Medal, IYIA 2023* | Node.js, Express, ESP32 |
+| **[Data Structures & Algorithmic Engine](https://github.com/chawannua/kmitl-ds-solutions-2026)** | High-performance implementations of complex data structures and algorithmic solutions. | Python, Algorithms, Pytest |
 
 ---
 <div align="center">
