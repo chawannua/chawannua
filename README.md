@@ -1,20 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Systems+%26+Aerospace+Developer;IoT+%26+Embedded+Hardware;Cybersecurity+%26+OSINT;2x+International+Gold+Medalist+(IYIA)" alt="Animated roles: Computer Engineering Student, Systems & Aerospace Developer, IoT & Embedded Hardware, Cybersecurity & OSINT, 2x International Gold Medalist (IYIA)" />
+  <h1>Hi, I'm Chawan 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Systems+%26+Aerospace+Developer;IoT+%26+Embedded+Hardware;Cybersecurity+%26+OSINT;2x+International+Gold+Medalist+(IYIA)" alt="Animated roles: Computer Engineering Student, Systems & Aerospace Developer, IoT & Embedded Hardware, Cybersecurity & OSINT, 2x International Gold Medalist" />
+  <p><b>Computer Engineering Student</b></p>
+  <p><i>Systems • IoT & Embedded Hardware • Cybersecurity & OSINT</i></p>
 </div>
 
-<div align="center">
-  <h2>Systems • IoT & Embedded Hardware • Cybersecurity & OSINT</h2>
-</div>
+<p align="center">
+  <a href="mailto:chawan.chawannua@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/chawan-thephasdin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/chawannua?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=chawannua&show_icons=true&theme=tokyonight&hide_border=true" alt="chawannua's GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chawannua&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-<div align="center">
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=chawannua&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 ### 🏆 Key Verified Honors
 * 🥇 **2× Gold Medalist** – International Innovation Competition (*Indonesia Inventors Day - IYIA 2022 & 2023*)
@@ -30,7 +35,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL (PostgreSQL)](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Hardware & IoT**<br/>
