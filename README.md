@@ -10,9 +10,11 @@
 ---
 
 ## 🏆 Verified Honors & Badges
-- 🥇 **Gold Medalist** – International Innovation Competition (IYIA 2023)
-- 🛡️ **Top 5% Finalist** – RTAF Youth Cyber Bootcamp CTF 2025
-- 🎓 **Computer Engineering Student** – King Mongkut's Institute of Technology Ladkrabang (KMITL)
+- 🥇 **2× Gold Medalist** – International Innovation Competition (*Indonesia Inventors Day - IYIA 2022 & 2023*)
+  - *2022*: Smart IoT Calamity Sentinel (Multi-hazard disaster monitoring)
+  - *2023*: ThermoGuard Environmental Sentinel (Heat Index & early warning)
+- 🛡️ **Top 5% Finalist (23rd/100 onsite finalists)** – RTAF Youth Cyber Bootcamp CTF 2025 (*Cyber Operations Center, Royal Thai Armed Forces*)
+- 🎓 **B.Eng. Computer Engineering** – King Mongkut's Institute of Technology Ladkrabang (KMITL)
 
 ---
 
@@ -38,6 +40,7 @@
 |---------|-------------|------------|
 | **[Air Defense Radar Sim](https://github.com/chawannua/air-defense-radar-sim)** | Pygame Tactical C2 Simulator for RTAF | 🛰️ AESA radar physics<br>📡 EW jamming logic<br>✈️ Interceptor scramble dynamics |
 | **[CubeSat Ground Station](https://github.com/chawannua/cubesat-ground-station)** | High-altitude balloon telemetry receiver | 📻 LoRa integration<br>⏱️ Real -45.6°C stratospheric data parser<br>⚙️ Arduino Mega powered |
+| **[Smart IoT Calamity Sentinel](https://github.com/chawannua/Smart-IOT-calamity)** | Multi-hazard disaster monitoring | 🥇 *Gold Medalist at IYIA 2022* |
 | **[Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard)** | IoT Environmental & Heat Index Monitor | 📱 Real-time LINE alerts<br>🌡️ Environmental monitoring<br>🥇 *Gold Medalist at IYIA 2023* |
 | **[KMITL DS Solutions](https://github.com/chawannua/kmitl-ds-solutions-2026)** | Data Structures exam mastery tools | 💯 40/40 verified solutions<br>🧠 Custom offline interactive exam app |
 
