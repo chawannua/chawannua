@@ -69,5 +69,5 @@
 | 📡 [air-defense-radar-sim](https://github.com/chawannua/air-defense-radar-sim) | Pygame-based Air Defense Radar Simulation | `Python` `Pygame` |
 | 🛰️ [cubesat-ground-station](https://github.com/chawannua/cubesat-ground-station) | Ground Station System for CubeSats | `C++` `Python` `Hardware` |
 | 🌪️ [Smart-IOT-calamity](https://github.com/chawannua/Smart-IOT-calamity) | 🥇 *Gold Medalist, IYIA 2022* - Multi-hazard telemetry | `C++` `ESP32` `IoT` |
-| 🔥 [Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard) | 🥇 *Gold Medalist, IYIA 2023* - Heat Index thermal safety | `Python` `IoT` |
-| 📚 [ds-solutions-2026](https://github.com/chawannua/kmitl-ds-solutions-2026) | 40/40 verified solutions + offline app | `C` `C++` |
+| 🔥 [Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard) | 🥇 *Gold Medalist, IYIA 2023* - Heat Index thermal safety & LINE alerts | `Node.js` `ESP32` `IoT` |
+| 📚 [Data Structures & Algorithms Solutions](https://github.com/chawannua/kmitl-ds-solutions-2026) | 40/40 verified solutions + offline interactive exam app | `Python` `Algorithms` `Pytest` |
