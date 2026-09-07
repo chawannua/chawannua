@@ -83,7 +83,7 @@
 | **[cubesat-ground-station](https://github.com/chawannua/cubesat-ground-station)** | Telemetry parsing & visualization pipeline for CubeSat satellite communications. | Software Engineer<br>*(Python, PySerial)* |
 | **[Smart-IOT-calamity](https://github.com/chawannua/Smart-IOT-calamity)** | Disaster & environmental telemetry sentinel.<br>🥇 *Gold Medal, IYIA 2022* | IoT Architect<br>*(C++, ESP32, Sensors)* |
 | **[Linebot-ThermoGuard](https://github.com/chawannua/Linebot-ThermoGuard)** | Thermal safety monitoring with automated LINE broadcast integration.<br>🥇 *Gold Medal, IYIA 2023* | Full Stack / IoT<br>*(ESP32, API, C++)* |
-| **[Data Structures & Algorithmic Engine](https://github.com/chawannua/ds-solutions-2026)** | High-performance implementations of complex data structures and algorithmic solutions. | Software Engineer<br>*(C++, Algorithms)* |
+| **[Data Structures & Algorithmic Engine](https://github.com/chawannua/kmitl-ds-solutions-2026)** | High-performance implementations of complex data structures and algorithmic solutions. | Software Engineer<br>*(C++, Algorithms)* |
 
 ---
 <div align="center">
