@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Systems+%26+Aerospace+Developer;IoT+%26+Embedded+Hardware;Cybersecurity+%26+OSINT;2x+International+Gold+Medalist+(IYIA)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Systems+%26+Aerospace+Developer;IoT+%26+Embedded+Hardware;Cybersecurity+%26+OSINT;2x+International+Gold+Medalist+(IYIA)" alt="Animated roles: Computer Engineering Student, Systems & Aerospace Developer, IoT & Embedded Hardware, Cybersecurity & OSINT, 2x International Gold Medalist (IYIA)" />
 </div>
 
 <div align="center">
