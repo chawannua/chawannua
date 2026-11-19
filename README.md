@@ -20,7 +20,7 @@
 * 🥇 **2× Gold Medalist** – International Innovation Competition (*Indonesia Inventors Day - IYIA 2022 & 2023*)
   * *2023*: **Linebot-ThermoGuard** (Heat Index thermal safety & automated LINE alerts)
   * *2022*: **Smart IoT Calamity Sentinel** (Multi-hazard environmental & seismic telemetry)
-* 🛡️ **Top 5% Finalist (23rd/100 onsite finalists)** – RTAF Youth Cyber Bootcamp CTF 2025 (*Cyber Operations Center, Royal Thai Armed Forces*)
+* 🛡️ **Onsite Finalist – 23rd in Final CTF** – Youth Cyber Bootcamp 2025 (*Cybersecurity Center of Excellence · Defence Cyber Command, Royal Thai Armed Forces HQ*)
 * 🔍 **OSINT & Reconnaissance** – Open-source intelligence, threat modeling, and network traffic forensics.
 
 ### 🛠️ Technical Arsenal
